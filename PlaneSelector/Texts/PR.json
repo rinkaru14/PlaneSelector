@@ -1,0 +1,98 @@
+﻿[
+    {
+        "no": "PR-K018",
+        "name": "중민 험프티・덤프티",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K018.jpg",
+        "class": "정무:트릭",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 당신의 모든 시그니의 레벨이 짝수인 경우, 턴 종료시까지, 대전상대 시그니 하나의 파워를 -4000 한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "PR-K020",
+        "name": "넥스트・레디",
+        "category": "스펠",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K020.jpg",
+        "textsize": 24,
+        "effect": [
+            [
+                "당신의 루리그 밑에서 카드를 원하는 수만큼 루리그트래시로 둔다. 그 뒤에 이하 4개에서, 이 방법으로 루리그트래시에 둔 카드의 매수만큼을 고른다."
+            ],
+            [
+                "① 턴 종료시까지, 대전상대 시그니 하나는 능력을 잃는다."
+            ],
+            [
+                "② 카드를 1장 뽑는다."
+            ],
+            [
+                "③ 당신의 덱 맨 위의 카드를 에나존에 둔다."
+            ],
+            [
+                "④ 모든 플레이어는 자신의 덱 위에서부터 카드 4장을 트래시로 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "PR-K032",
+        "name": "비컴・유",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K032.jpg",
+        "effect": [
+            [
+                "이하 2개 중에 1개를 고른다."
+            ],
+            [
+                "① 당신의 루리그가 대전상대의 루리그 레벨 이하인 경우, 당신의 루리그는 그로우한다. 턴 종료시까지, 당신의 장에 있는 모든 키는 능력을 잃는다. (그로우코스트는 지불한다)"
+            ],
+            [
+                "② 당신의 트래시에서 당신의 루리그와 같은 색의 시그니 하나를 패에 넣고, 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+
+
+    {
+        "no": "PR-K045",
+        "name": "돈・리브미",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K045.jpg",
+        "effect": [
+            [
+                "배트 - ",
+                "(Coin)",
+                "(Coin)"
+            ],
+            [
+                "대전상대의 시그니를 1장 다운한다. 당신이 배트한 경우, 대신 대전상대의 시그니를 2장 다운한다."
+            ]
+        ]
+    },
+    {
+        "no": "PR-K061",
+        "name": "미토＆카에데＆린 레벨０",
+        "category": "루리그",
+        "type": "니지산지",
+        "color": "WRU",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/PR/PR-K061.jpg"
+    }
+]

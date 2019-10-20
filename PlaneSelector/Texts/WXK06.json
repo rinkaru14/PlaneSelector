@@ -1,0 +1,570 @@
+﻿[
+    {
+        "no": "WXK06-002",
+        "name": "에이션트・그루브",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-002.jpg",
+        "effect": [
+            [
+                "당신의 루리그가 ＜움르＞인 경우, 이 아츠를 사용하기 위한 코스트는 ",
+                "(U2)",
+                "가 준다."
+            ],
+            [
+                "대전상대의 시그니를 1장 다운한다. 카드를 2장 뽑고, 대전상대는 패를 2장 버린다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-005",
+        "name": "코드・피루루크 ＡＰＥＸ ＫＥＹ",
+        "category": "키",
+        "color": "UB",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-005.jpg",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 루리그는 이하의 능력을 얻는다."
+            ],
+            [
+                "[위공백]",
+                " 『",
+                "[기동]",
+                "[턴 1]",
+                "[어택 페이즈]",
+                "엑시드 2 : 당신의 트래시에 있는 스펠 1장을 코스트를 2배로 지불하고 사용한다. 이번 턴, 그것이 체크존에서 다른 영역으로 이동할 경우, 대신 게임에서 제외된다.』",
+                "[아래공백]"
+            ],
+            [
+                "[자동]",
+                "[턴 1]",
+                " : 당신이 스펠을 1장 사용했을 때, ",
+                "(C)",
+                "를 지불해도 좋다. 그랬을 경우, 대전상대 시그니 하나를 배니시한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-010",
+        "name": "넘버・바인드",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-010.jpg",
+        "effect": [
+            [
+                "이 아츠를 사용하기 위한 코스트는 당신의 장에 있는 시그니 하나당 ",
+                "(W1)",
+                "줄어든다."
+            ],
+            [
+                "턴 종료시까지, 레벨의 합계가 6 이하인 원하는 숫자의 대전상대 시그니는 「어택할 수 없다」를 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-012",
+        "name": "탄주의 건주 움르＝트레",
+        "category": "루리그",
+        "type": "움르",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-012.jpg",
+        "effect": [
+        ]
+    },
+    {
+        "no": "WXK06-013",
+        "name": "영창의 건주 움르＝트레",
+        "category": "루리그",
+        "type": "움르",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-013.jpg",
+        "effect": [
+            [
+                "[출현]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-014",
+        "name": "탄주의 건주 움르＝트보",
+        "category": "루리그",
+        "type": "움르",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-014.jpg"
+    },
+    {
+        "no": "WXK06-015",
+        "name": "탄주의 건주 움르＝에트",
+        "category": "루리그",
+        "type": "움르",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-015.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "패를 1장 버린다",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-016",
+        "name": "카운터・액센트",
+        "category": "아츠",
+        "timing": [
+            "스펠컷인"
+        ],
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-016.jpg",
+        "effect": [
+            [
+                "이 아츠를 사용하기 위한 코스트는 당신의 장에 있는 시그니 하나당 ",
+                "(U1)",
+                "줄어든다."
+            ],
+            [
+                "스펠 하나의 효과를 없앤다. 그랬을 경우, 카드를 1장 뽑고, 이 카드를 루리그 덱으로 되돌린다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-026",
+        "name": "넥스트・퓨쳐",
+        "category": "스펠",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-026.jpg",
+        "limitation": "에마 한정",
+        "effect": [
+            [
+                "다음 어택페이즈 뒤에, 추가로 어택 페이즈를 얻는다. 이 방법으로 추가한 어택 페이즈 개시시, 당신의 모든 시그니를 업한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 어느 한 쪽을 고른다. ① 카드를 1장 뽑는다. ② 대전상대 레벨 3 이하의 시그니 하나를 패로 되돌린다."
+            ]
+
+        ]
+    },
+    {
+        "no": "WXK06-027",
+        "name": "코드메이즈 요그＝소토스",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-027.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "textsize": 23,
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 이번 턴에 대전상대 카드가 당신의 효과에 의해 1장 이상 덱으로 이동한 경우, 이하 세 가지 중에 한 가지를 고른다. 3장 이상 이동한 경우, 대신 두 가지까지 고른다."
+            ],
+            [
+                "① 대전상대 시그니 하나를 배니시한다."
+            ],
+            [
+                "② 대전상대는 패를 1장 버린다."
+            ],
+            [
+                "③ 카드를 2장 뽑는다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 ＜미궁＞ 시그니를 2장까지 패에 넣는다."
+            ]
+
+        ]
+    },
+    {
+        "no": "WXK06-028",
+        "name": "코드메이즈 아틀란",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-028.jpg",
+        "class": "정계:미궁",
+        "textsize": 22,
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 대전상대의 트래시에서 카드를 2장까지 덱 맨 위에 둔다. (두는 순서는 상대가 정한다)"
+            ],
+            [
+                "[기동]",
+                "[턴 1]",
+                "(U0)",
+                " : 플레이어를 2명까지 선택한다. 선택된 플레이어는 패를 전부 덱에 넣고 셔플하여, 이 방법으로 자신의 덱에 넣은 카드 장수와 똑같은 장수의 카드를 뽑는다. 이 효과에 의해 각 플레이어는 최대 5장 밖에 카드를 뽑을 수 없다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다. 대전상대는 패를 1장 덱 맨 위에 둔다."
+            ]
+
+        ]
+    },
+    {
+        "no": "WXK06-029",
+        "name": "프리덤 단 와일드라이거",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-029.jpg",
+        "class": "정계:미궁",
+        "textsize": 21,
+        "effect": [
+            [
+                "[상시]",
+                " : 당신이 덱에서 카드를 찾을 때, 이 카드를 덱에서 공개하고 ",
+                "(U)",
+                "(C)",
+                "를 지불해도 좋다. 그랬을 경우, 이것을 패에 넣는다."
+            ],
+            [
+                "[자동]",
+                " : 장에 있는 시그니 하나가 다른 시그니 존으로 이동했을 때, 턴 종료시까지 대전상대 시그니 하나의 파워를 -2000 한다."
+            ],
+            [
+                "[출현]",
+                " : 당신이나 대전상대 장에 있는 모든 시그니를 원하는 대로 배치한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다. 당신의 라이프크로스가 4장 이하인 경우, 추가로 [에나차지 1]을 한다."
+            ]
+
+        ]
+    },
+    {
+        "no": "WXK06-040",
+        "name": "코드메이즈 트로니스",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-040.jpg",
+        "class": "정계:미궁",
+        "effect": [
+            [
+                "[자동]",
+                "[턴 1]",
+                " : 이 시그니가 어택했을 때, 숫자 하나를 선언한다. 대전상대 덱 맨 위의 카드를 트래시에 둔다. 그것이 선언한 숫자와 같은 레벨의 시그니인 경우, 이 시그니를 업한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 어느 한 쪽을 고른다. ① 카드를 1장 뽑는다. ② 대전상대 레벨 2 이하의 시그니 하나를 다운한다."
+            ]
+
+        ]
+    },
+    {
+        "no": "WXK06-041",
+        "name": "코드메이즈 바이아",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-041.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 대전상대 턴 동안, 이 시그니가 배니시되었을 때, 대전상대는 패 1장을 덱 위로 둔다."
+            ],
+            [
+                "[출현]",
+                " : 대전상대 트래시에서 카드를 2장까지, 덱의 맨 아래로 둔다.(두는 순서는 대전상대가 고른다)"
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-042",
+        "name": "코드메이즈 시시죠",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-042.jpg",
+        "class": "정계:미궁",
+        "effect": [
+            [
+                "[자동]",
+                "[턴 1]",
+                " : 대전상대의 카드가 당신의 효과로 인해 덱으로 이동했을 때, [에나차지 1]을 한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-043",
+        "name": "코드메이즈 셰프샤우엔",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-043.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 대전상대의 어택페이즈 개시시, 당신의 장에 있는 모든 시그니를 원하는 대로 재배치한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-044",
+        "name": "코드메이즈 마리타이",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-044.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[출현]",
+                " : 패가 1장 이상 있는 모든 플레이어는, 패를 1장 덱 맨 아래로 두고 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-045",
+        "name": "코드메이즈 산드리아",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-045.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[출현]",
+                " : 당신의 덱에 카드가 25장 이상 있는 경우, 카드를 1장 뽑는다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-046",
+        "name": "코드메이즈 샤마하",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-046.jpg",
+        "class": "정계:미궁",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 당신의 덱 맨 위를 공개한다. 그것이 ＜미궁＞ 시그니인 경우, 그것을 에나존에 둔다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-047",
+        "name": "ＩＮ ＴＥＭＰＯ",
+        "category": "스펠",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-047.jpg",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "카드 2장을 뽑고, 패를 1장 버린다. 그 뒤에, 대전상대는 자신의 시그니 하나를 덱 맨 위에 두지 않는 한 패를 1장 덱 맨 밑에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-064",
+        "name": "ＧＦ 류크",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-064.jpg",
+        "class": "정상:영지",
+        "effect": [
+            [
+                "[상시]",
+                " : 대전상대 턴 동안, 이 시그니의 파워는 +3000 된다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-067",
+        "name": "코드메이즈 아트리트",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-067.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[기동]",
+                "(U)",
+                "이 시그니를 장에서 트래시로 둔다",
+                " : 대전상대는 자신의 패나 에나존에서 카드를 합계 2장 덱 맨 위로 놓지 않는 한, 자신의 시그니 1장을 덱 맨 위로 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-068",
+        "name": "코드메이즈 도밤",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-068.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 당신의 어택페이즈 개시시, 이번 턴에 대전상대 카드가 당신의 효과에 의해 3장 이상 덱으로 이동한 경우, [에나차지 2]를 한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-069",
+        "name": "코드메이즈 트라지마",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-069.jpg",
+        "class": "정계:미궁"
+    },
+    {
+        "no": "WXK06-070",
+        "name": "코드메이즈 로열",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-070.jpg",
+        "class": "정계:미궁",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 이번 턴에 대전상대 카드가 당신의 효과로 인해 2장 이상 덱으로 이동했을 경우, 당신의 덱에서 청색 시그니를 1장 찾아서 공개하여 패에 넣고, 덱을 셔플한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-071",
+        "name": "코드메이즈 산토리니",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-071.jpg",
+        "class": "정계:미궁",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 이번 턴에 대전상대 카드가 당신의 효과로 인해 1장 이상 덱으로 이동했을 경우, 턴 종료시까지, 대전상대 시그니 하나의 파워를 -5000 한다. 4장 이상 이동했을 경우, 대신 -12000 한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 어느 한 쪽을 고른다. ① 카드를 1장 뽑는다. ② 대전상대는 패를 1장 버린다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-072",
+        "name": "코드메이즈 프리모",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-072.jpg",
+        "class": "정계:미궁"
+    },
+    {
+        "no": "WXK06-073",
+        "name": "코드메이즈 조지아",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-073.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[출현]",
+                " : 대전상대의 패를 보고 무색이 아닌 카드를 1장까지 고른다. 카드를 1장 고른 경우, 대전상대는 그것을 덱 맨 아래에 두고 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-074",
+        "name": "코드메이즈 모나뮤",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-074.jpg",
+        "class": "정계:미궁",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 이번 턴에 대전상대 카드가 당신의 효과로 인해 덱으로 이동했을 경우, ",
+                "(U)",
+                "을 지불해도 좋다. 그랬을 경우, 턴 종료시까지, 대전상대의 시그니 하나의 파워를 -3000 한다. (파워가 0 이하인 시그니는 룰에 따라 배니시된다)"
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-075",
+        "name": "코드메이즈 브라노",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-075.jpg",
+        "class": "정계:미궁",
+        "effect": [
+            [
+                "[출현]",
+                "패를 1장 버린다",
+                " : 당신의 덱에서 레벨 2의 ＜미궁＞ 시그니 1장을 찾아서 공개하여 패에 넣고, 덱을 셔플한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-076",
+        "name": "코드메이즈 블루모",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-076.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 대전상대의 시그니 하나가 어택했을 때, 이 시그니를 다른 시그니 존에 배치해도 좋다. (이미 시그니가 있는 시그니 존에 배치할 수 없다)"
+            ]
+        ]
+    },
+    {
+        "no": "WXK06-077",
+        "name": "코드메이즈 마마프라",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK06/WXK06-077.jpg",
+        "class": "정계:미궁",
+        "effect": [
+            [
+                "[출현]",
+                "(U)",
+                " : 당신은 덱의 맨 위를 공개한다. 그것이 ＜미궁＞ 시그니인 경우, 그것을 패에 넣는다."
+            ]
+        ]
+    }
+
+]

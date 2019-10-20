@@ -1,0 +1,313 @@
+﻿[
+
+    {
+        "no": "WDK14-001",
+        "name": "연주하는 자 타윌＝퓌라",
+        "category": "루리그",
+        "type": "타윌",
+        "color": "R",
+        "coin": 2,
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-001.jpg",
+        "effect": [
+            [
+                "[자동]",
+                "[비트]",
+                "레벨 1~4가 각 1장 이상¶",
+                " : 당신의 어택 페이즈 개시시, 카드를 1장 뽑거나, [에나차지 1]을 한다."
+            ],
+            [
+                "[기동]",
+                "[턴 1]",
+                "시그니 하나를 [비트]로 한다 : 카드를 1장 뽑는다."
+            ],
+            [
+                "[기동]",
+                "[게임 1]",
+                "[어택페이즈]",
+                "【프라이멀】",
+                "(Coin)",
+                "루리그 덱에서 아츠 1장을 루리그 트래시에 둔다 : 당신의 트래시에서 ＜악마＞ 시그니를 3장까지 장에 낸다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-002",
+        "name": "연주하는 자 타윌＝트레",
+        "category": "루리그",
+        "type": "타윌",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-002.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "[비트]",
+                " : ",
+                "(Coin)",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-003",
+        "name": "연주하는 자 타윌＝트보",
+        "category": "루리그",
+        "type": "타윌",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-003.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "(Coin)",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-004",
+        "name": "연주하는 자 타윌＝에트",
+        "category": "루리그",
+        "type": "타윌",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-004.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "패를 1장 버린다 : ",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-005",
+        "name": "연주하는 자 타윌＝놀",
+        "category": "루리그",
+        "type": "타윌",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-005.jpg"
+    },
+    {
+        "no": "WDK14-006",
+        "name": "분골쇄신",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-006.jpg",
+        "effect": [
+            [
+                "대전상대의 시그니를 2장 배니시한다. (하나의 시그니만을 고를 수 없다)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-007",
+        "name": "분골쇄신",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-007.jpg",
+        "effect": [
+            [
+                "카드를 2장 뽑고, [에나차지 2]를 하고, 당신의 라이프크로스 1장을 크래시한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-008",
+        "name": "회심전화",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-008.jpg",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "앵콜 - ",
+                "(Coin)",
+                " (앵콜 코스트를 추가로 지불해도 좋다. 그랬을 경우, 이것은 추가로 「이 카드를 루리그 덱으로 되돌린다.」를 얻는다)"
+            ],
+            [
+                "당신의 덱 위에서 카드를 4장 본다. 그 안에서 1장을 패에 넣고, 1장을 [비트]로 하고, 남은 걸 원하는 순서대로 덱 맨 아래에 둔다. 그 뒤에 이 방법으로 [비트]한 시그니와 같은 레벨의 대전상대 시그니 하나를 배니시한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-009",
+        "name": "주악의 건주 움르",
+        "category": "키",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-009.jpg",
+        "effect": [
+            [
+                "[출현]",
+                " : 당신의 덱 위에서 카드 4장을 트래시에 둔다. 그 뒤에 당신의 트래시에서 시그니 1장을 장에 낸다. 당신의 루리그가 ＜타윌＞인 경우, 추가로 시그니 1장을 장에 낸다. "
+            ],
+            [
+                "[기동]",
+                "[어택 페이즈]",
+                "이 키를 장에서 트래시에 둔다 : 대전상대의 시그니 하나를 다운한다. 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-010",
+        "name": "레이즈・오브・엣지",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈",
+            "메인페이즈"
+        ],
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-010.jpg",
+        "effect": [
+            [
+                "대전상대 시그니 하나를 트래시에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-011",
+        "name": "염마의 성묘 문카루",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-011.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[출현]",
+                "[비트]",
+                "4장 이하¶",
+                "(R)",
+                " : 당신의 트래시에서 각각 레벨이 다른 시그니를 2장까지 [비트]로 한다."
+            ],
+            [
+                "[자동]",
+                "[비트]",
+                "5장 이상¶",
+                " : 당신의 어택 페이즈 개시시, 대전상대 시그니 하나를 배니시한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 대전상대의 파워 12000 이하의 시그니 하나를 배니시한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-012",
+        "name": "염마의 양장 토비에",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-012.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[출현]",
+                "[비트]",
+                "4장 이하¶",
+                "이 시그니와 다른 시그니 하나를 [비트]로 한다 : 당신의 트래시에서 《염마의 양장 토비에》이외의 ＜악마＞ 시그니 1장을 장에 낸다."
+            ],
+            [
+                "(이 능력은 당신의 [비트]가 4장 이하인 한 유효가 된다. 코스트를 지불하여 [비트]가 5장 이상이 되어도 발동한다)"
+            ],
+            [
+                "([비트]는 턴 종료시까지 당신이 가지며, 그 뒤에는 트래시에 둔다.)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-013",
+        "name": "염마의 성묘 나키루",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-013.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[출현]",
+                "[비트]",
+                "4장 이하¶",
+                "트래시에서 ＜악마＞ 시그니 1장을 [비트]로 한다 : 이 방법으로 당신의 [비트]가 4장이 된 경우, 카드를 1장 뽑는다."
+            ],
+            [
+                "(이 능력은 당신의 [비트]가 4장 이하인 한 유효가 된다.)"
+            ],
+            [
+                "([비트]는 턴 종료시까지 당신이 가지며, 그 뒤에는 트래시에 둔다.)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-014",
+        "name": "염마의 공작 카임",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-014.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[자동]",
+                "[턴 1]",
+                " : 당신의 다른 카드가 [비트]가 되었을 때, ",
+                "(R)",
+                "(R)",
+                "을 지불해도 좋다. 그랬을 경우, 대전상대의 파워 12000 이하의 시그니 하나를 배니시한다."
+            ],
+            [
+                "[출현]",
+                "[비트]",
+                "4장 이하¶",
+                "《염마의 공작 카임》이외의 시그니 1장을 [비트]로 한다 : 카드를 1장 뽑는다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-015",
+        "name": "염마의 화로 브리짓",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-015.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 [비트]가 되었을 때, ",
+                "(R)",
+                "을 지불해도 좋다. 그랬을 경우, 대전상대의 파워 5000 이하의 시그니 하나를 배니시한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WDK14-016",
+        "name": "염마의 미광 일리히트",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK14/WDK14-016.jpg",
+        "class": "정상:악마"
+    }
+]

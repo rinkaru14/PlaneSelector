@@ -1,0 +1,254 @@
+﻿[
+    {
+        "no": "SP32-025",
+        "name": "서번트 Ｑ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-025.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "SP32-026",
+        "name": "서번트 Ｑ３",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-026.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "SP32-027",
+        "name": "서번트 Ｑ２",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-027.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ]
+    },
+    {
+        "no": "SP32-028",
+        "name": "서번트 Ｔ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-028.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "SP32-029",
+        "name": "서번트 Ｔ３",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-029.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "SP32-030",
+        "name": "서번트 Ｔ２",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-030.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ]
+    },
+    {
+        "no": "SP32-031",
+        "name": "서번트 Ｄ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-031.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "SP32-032",
+        "name": "서번트 Ｄ３",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-032.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "SP32-033",
+        "name": "서번트 Ｄ２",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-033.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ]
+    },
+    {
+        "no": "SP32-034",
+        "name": "서번트 Ｏ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-034.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "SP32-035",
+        "name": "서번트 Ｏ３",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-035.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "SP32-036",
+        "name": "서번트 Ｏ２",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/SP32/SP32-036.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ]
+    }
+]

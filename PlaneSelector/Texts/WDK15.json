@@ -1,0 +1,213 @@
+﻿[
+    {
+        "no": "WDK15-001",
+        "name": "나나시 그 사의 보",
+        "category": "루리그",
+        "type": "나나시",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-001.jpg",
+        "textsize" : 22,
+        "effect": [
+            [
+                "[자동]",
+                "[턴 1]",
+                " : 당신의 ",
+                "[라이즈]",
+                "를 가진 시그니 하나가 장에 나왔을 때, 당신의 트래시에서 시그니 1장을 그 시그니 아래에 둔다."
+            ],
+            [
+                "[출현]",
+                " : 당신의 트래시에서 ",
+                "[라이즈]",
+                "를 가진 시그니 1장과 ＜웨폰＞ 시그니 1장을 패에 넣는다."
+            ],
+            [
+                "[기동]",
+                "[게임 1]",
+                "[메인페이즈]",
+                "[어택페이즈]",
+                "【블라인드】",
+                "(Coin)",
+                " : 당신의 트래시에서 시그니 2장까지, 당신의 ＜웨폰＞ 시그니 둘까지의 아래에 둔다. 아래에 카드가 있는 당신의 시그니 하나당, 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK15-002",
+        "name": "나나시 그 삼의 보",
+        "category": "루리그",
+        "type": "나나시",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-002.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "(B)",
+                " : ",
+                "(Coin)",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK15-003",
+        "name": "나나시 그 이의 보",
+        "category": "루리그",
+        "type": "나나시",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-003.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "(Coin)",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK15-004",
+        "name": "나나시 그 일의 개",
+        "category": "루리그",
+        "type": "나나시",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-004.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "패를 1장 버린다 : ",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK15-005",
+        "name": "나나시 그 무",
+        "category": "루리그",
+        "type": "나나시",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-005.jpg",
+        "coin": 2
+    },
+    {
+        "no": "WDK15-007",
+        "name": "포토제닉・배리어",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈",
+            "메인페이즈"
+        ],
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-007.jpg",
+        "limitation": "나나시 한정",
+        "effect": [
+            [
+                "배트 - ",
+                "(Coin)",
+                " (이 아츠를 사용할 때, 코인을 지불해도 좋다)"
+            ],
+            [
+                "당신이 배트한 경우, 이 아츠를 사용하기 위한 코스트는 ",
+                "(B2)",
+                "줄어든다."
+            ],
+            [
+                "당신의 트래시에서 ＜웨폰＞ 시그니 1장을 장에 내고, 당신의 트래시에서 시그니를 2장까지 그 시그니 아래에 둔다."
+            ]
+        ]
+    },
+
+    {
+        "no": "WDK15-011",
+        "name": "노서 토트",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-011.jpg",
+        "class": "정무:웨폰",
+        "limitation": "나나시 한정",
+        "textsize" : 20,
+        "effect": [
+            [
+                "[라이즈조건]",
+                "  당신의 ＜웨폰＞ 시그니 하나 위에 둔다."
+            ],
+            [
+                "[상시]",
+                " : 이 시그니는 이 시그니 아래에 카드가 3장 이상 있는 한, [더블 크래시]를 얻는다."
+            ],
+            [
+                "[상시]",
+                " : 이 시그니의 파워는 이 밑에 있는 카드 1장당, +1000 된다."
+            ],
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 턴 종료시까지, 대전상대 모든 시그니의 파워를 이 시그니의 파워의 절반만큼 -(마이너스)한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 턴 종료시까지, 대전상대의 시그니 하나의 파워를 -10000한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK15-014",
+        "name": "굉서 데마기아",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-014.jpg",
+        "class": "정무:웨폰",
+        "limitation": "나나시 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 이 시그니 밑에 카드가 있는 경우, 턴 종료시까지, 대전상대 시그니의 하나의 파워를 -7000 한다."
+            ],
+            [
+                "[출현]",
+                "(B)",
+                " : 당신의 덱 맨 아래의 카드를 이 시그니 밑에 둔다. (시그니 밑에 놓여진 카드는 앞면으로 둔다)"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK15-016",
+        "name": "소서 톤코우",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-016.jpg",
+        "class": "정무:웨폰"
+    },
+    {
+        "no": "WDK15-017",
+        "name": "소서 인페",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK15/WDK15-017.jpg",
+        "class": "정무:웨폰",
+        "limitation": "나나시 한정",
+        "effect": [
+            [
+                "[출현]",
+                "(B)",
+                " : 당신의 덱에서 ",
+                "[라이즈]",
+                "를 가진 시그니 1장을 찾아서 공개하여 패에 넣고, 덱을 셔플한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    }
+]

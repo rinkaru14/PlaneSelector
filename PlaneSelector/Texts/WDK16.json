@@ -1,0 +1,149 @@
+﻿[
+    {
+        "no": "WDK16-01T",
+        "name": "츠키노 미토 레벨 ４",
+        "category": "루리그",
+        "type": "니지산지",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK16/WDK16-01T.jpg",
+        "textsize" : 22,
+        "effect": [
+            [
+                "[상시]",
+                " : 당신이 ",
+                "(R)",
+                "이나 ",
+                "(U)",
+                "을 지불할 때, 대신 ",
+                "(W)",
+                "을 지불해도 좋다."
+            ],
+            [
+                "[자동]",
+                " : 이 루리그가 어택했을 때, 등록자수를 10만명 얻는다."
+            ],
+            [
+                "[출현]",
+                " : 당신의 덱에서 시그니 1장을 찾아서 공개하여 패에 넣고, 덱을 셔플한다."
+            ],
+            [
+                "[기동]",
+                "[게임 1]",
+                "【＃미토의 생방송】",
+                "(W0)",
+                " : 대전상대 시그니 하나를 트래시에 둔다. 당신의 등록자수가 100만명을 달성하고 있는 경우, 당신의 덱에서 시그니를 2장까지 찾아서 공개하여 패에 넣고, 덱을 셔플한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK16-05T",
+        "name": "미토 서포터 린＆카에데",
+        "category": "키",
+        "color": "UR",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK16/WDK16-05T.jpg",
+        "limitation" : "니지산지 한정",
+        "effect": [
+            [
+                "[상시]",
+                " : 이 키는 당신의 루리그가 ＜츠키노 미토 레벨 ４＞인 경우밖에 새롭게 장에 낼 수 없다."
+            ],
+            [
+                "[출현]",
+                " : 대전상대 시그니를 둘까지 배니시한다. 카드를 1장 뽑는다. 등록자수를 20만명 얻는다."
+            ],
+            [
+                "[기동]",
+                "[어택페이즈]",
+                "(U)",
+                "(U)",
+                "(R)",
+                "(R)",
+                "이 키를 장에서 루리그트래시로 둔다 : 대전상대 모든 시그니를 배니시한다. 카드를 3장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK16-06T",
+        "name": "코드ＶＬ 시이나 유이카",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK16/WDK16-06T.jpg",
+        "class": "정계:전기",
+        "limitation" : "니지산지 한정",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 장에 카드 이름에 ＜미토＞라는 이름을 포함한 루리그가 있는 한, 이 시그니는 「",
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 대전상대의 레벨 3 이하의 시그니 하나를 패로 되돌린다. 당신의 등록자수가 100만명을 달성한 경우, 대신 대전상대의 시그니 하나를 패로 되돌린다.」를 얻는다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 대전상대의 시그니 하나를 패로 되돌린다."
+            ]
+
+        ]
+    },
+    {
+        "no": "WDK16-03H",
+        "name": "히구치 카에데 레벨 ２",
+        "category": "루리그",
+        "type": "니지산지",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK16/WDK16-03H.jpg",
+        "effect": [
+            [
+                "[출현]",
+                " : 등록자수를 10만명 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK16-09",
+        "name": "머스트・하이드",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK16/WDK16-09.jpg",
+        "limitation": "니지산지 한정",
+        "effect": [
+            [
+                "턴 종료시까지, 대전상대 시그니 하나는 「어택할 수 없다」를 얻는다."
+            ],
+            [
+                "당신의 등록자수가 70만명을 달성하고 있는 경우, 추가로 턴 종료시까지, 대전상대 시그니 하나는 「어택할 수 없다」를 얻는다."
+            ],
+            [
+                "당신의 등록자수가 100만명을 달성하고 있는 경우, 추가로 턴 종료시까지, 대전상대 루리그 하나는 「어택할 수 없다」를 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK16-10",
+        "name": "파이트・고스트",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK16/WDK16-10.jpg",
+        "limitation": "니지산지 한정",
+        "effect": [
+            [
+                "당신의 덱에서 ＜전기＞ 시그니를 2장까지 찾아서 공개하고 패에 넣고, 덱을 셔플한다. 등록자수를 20만 얻는다. 당신의 루리그의 레벨이 대전상대 루리그와 같은 경우, 추가로 등록자수를 10만명 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK16-16",
+        "name": "코드ＶＬ 후미노 타마키",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK16/WDK16-16.jpg",
+        "class": "정계:전기"
+    }
+]

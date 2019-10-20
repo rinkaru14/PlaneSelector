@@ -1,0 +1,63 @@
+﻿[
+    ///
+    /// <summary>
+    /// WDK02 Blue Catharsis
+    /// </summary>
+    ///
+    {
+        "no": "WDK02-004",
+        "name": "아로스・피루루크 ＭＯＮＯ",
+        "category": "루리그",
+        "type": "피루루크",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-004.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "패를 1장 버린다 : ",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-017",
+        "name": "마계의 점형 슬라임",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-017.jpg",
+        "class": "정상:악마",
+        "limitation": "피루루크 한정",
+        "effect": [
+            [
+                "[출현]",
+                " : 모든 플레이어는 패를 1장 버린다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-020",
+        "name": "ＤＥＶＩＬ ＳＥＡＬ",
+        "category": "스펠",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-020.jpg",
+        "limitation": "피루루크 한정",
+        "effect": [
+            [
+                "이하 2개 중에 1개를 고른다."
+            ],
+            [
+                "① 당신의 ＜악마＞ 시그니 하나를 장에서 트래시로 둔다. 그랬을 경우, 대전상대는 패를 1장 버린다."
+            ],
+            [
+                "② [에나차지 1]"
+            ]
+        ]
+    }
+]

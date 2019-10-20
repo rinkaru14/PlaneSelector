@@ -1,0 +1,994 @@
+﻿[
+    {
+        "no": "WXK08-001",
+        "name": "드림・트라이앵글",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "WRU",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-001.jpg",
+        "textsize": 20,
+        "effect": [
+            [
+                "당신의 루리그가 ＜니지산지＞인 경우, 이 아츠를 사용하기 위한 코스트는 ",
+                "(W2)",
+                "줄어든다."
+            ],
+            [
+                "이하 3가지 중에 2가지까지 고른다."
+            ],
+            [
+                "① ",
+                "(W)",
+                "을 지불해도 좋다. 그랬을 경우, 턴 종료시까지, 대전상대 시그니 둘까지 능력을 잃는다."
+            ],
+            [
+                "② ",
+                "(R)",
+                "을 지불해도 좋다. 그랬을 경우, 대전상대 시그니 하나를 배니시한다."
+            ],
+            [
+                "③ ",
+                "(U)",
+                "을 지불해도 좋다. 그랬을 경우, 대전상대 시그니 하나를 다운하고, 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-002",
+        "name": "가무열곡",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-002.jpg",
+        "textsize": 22,
+        "effect": [
+            [
+                "당신의 루리그가 ＜타윌＞인 경우, 이 아츠를 사용하기 위한 코스트는 ",
+                "(R2)",
+                "줄어든다."
+            ],
+            [
+                "이하 3가지 중에 1가지를 고른다."
+            ],
+            [
+                "① 턴 종료시까지, 당신의 트래시에 있는 적색 시그니 1장을 레벨 1로 한다. 그것을 레벨 1의 상태로 장에 낸다. 턴 종료시, 그 시그니를 장에서 패로 되돌린다."
+            ],
+            [
+                "② 파워 합계가 10000 이하가 되도록 시그니를 둘까지 배니시한다."
+            ],
+            [
+                "③ 턴 종료시까지, 당신의 적색 루리그는 능력을 잃고 「",
+                "[자동]",
+                "[턴 2]",
+                " : 이 루리그의 어택이 [가드]되었을 때, 이 루리그를 업한다.」를 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-003",
+        "name": "그리모어・블래스트",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-003.jpg",
+        "textsize": 22,
+        "effect": [
+            [
+                "당신의 루리그가 ＜나나시＞인 경우, 이 아츠를 사용하기 위한 코스트는 ",
+                "(B2)",
+                "줄어든다."
+            ],
+            [
+                "이하 3가지 중에 2가지까지 고른다."
+            ],
+            [
+                "① 당신의 트래시에서 시그니 하나를 ",
+                "[라이즈]",
+                "조건을 무시하고 장에 낸다. 그 시그니의 ",
+                "[출현]",
+                "능력은 발동하지 않는다."
+            ],
+            [
+                "② 대전상대의 레벨 3 이하의 시그니 하나를 배니시한다."
+            ],
+            [
+                "③ 이번 턴에 대전상대가 아츠나 스펠을 사용한 경우, 대전상대 시그니 하나를 트래시에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-005",
+        "name": "블릿츠 아ー야!",
+        "category": "키",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-005.jpg",
+        "effect": [
+            [
+                "어택 페이즈 동안, 당신의 루리그의 레벨이 대전상대 루리그보다 낮은 한, 이 키는 ",
+                "[어택페이즈]",
+                "를 얻는다."
+            ],
+            [
+                "[상시]",
+                " : 당신의 루리그는 이하의 능력을 얻는다."
+            ],
+            [
+                "[위공백]",
+                " 『",
+                "[기동]",
+                "[어택 페이즈]",
+                "엑시드 1 : 스펠 하나의 효과를 없앤다."
+            ],
+            [
+                "　",
+                "[기동]",
+                "[어택 페이즈]",
+                "엑시드 2 : 대전상대의 시그니 하나를 다운하고 동결시킨다.』",
+                "[아래공백]"
+            ],
+            [
+                "[출현]",
+                " : 대전상대의 시그니 하나를 덱 맨 위에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-006",
+        "name": "츠키노 미토 레벨 ３’",
+        "category": "루리그",
+        "type": "니지산지",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-006.jpg",
+        "effect": [
+            [
+                "[출현]",
+                " : 등록자수를 20만명 얻는다."
+            ],
+            [
+                "[출현]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-009",
+        "name": "츠키노 미토 레벨 １’",
+        "category": "루리그",
+        "type": "니지산지",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-009.jpg",
+        "effect": [
+            [
+                "[출현]",
+                " : 등록자수를 10만명 얻는다."
+            ],
+            [
+                "[출현]",
+                "패를 1장 버린다 : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-013",
+        "name": "새긴 자 타윌＝트보",
+        "category": "루리그",
+        "type": "타윌",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-013.jpg"
+    },
+    {
+        "no": "WXK08-020",
+        "name": "나나시 그 이",
+        "category": "루리그",
+        "type": "나나시",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-020.jpg"
+    },
+    {
+        "no": "WXK08-023",
+        "name": "코드ＶＬ 모노노베 아리스",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-023.jpg",
+        "class": "정계:전기",
+        "limitation": "니지산지 한정",
+        "textsize": 22,
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 등록자수가 100만명 이상을 달성하고 있고, 이 시그니가 중앙의 시그니 존에 있는 한, 이 시그니는 「당신의 턴 동안, 배니시되지 않는다.」를 얻는다."
+            ],
+            [
+                "[출현]",
+                "(W)",
+                " : 대전상대의 시그니 하나를 패로 되돌린다."
+            ],
+            [
+                "[기동]",
+                "[턴 1]",
+                "(W)",
+                "(C)",
+                " : 당신의 덱에서 ＜코드ＶＬ 모노노베 아리스＞ 이외의 ＜전기＞ 시그니 1장을 찾아서 장에 내고, 덱을 셔플한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 대전상대의 시그니 하나를 패로 되돌린다."
+            ]
+
+        ]
+    },
+    {
+        "no": "WXK08-025",
+        "name": "코드ＶＬ 스즈카 우타코",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-025.jpg",
+        "class": "정계:전기",
+        "textsize": 20,
+        "effect": [
+            [
+                "[상시]",
+                " : 대전상대는 앵콜이나 배트를 할 수 없다."
+            ],
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 턴 종료시까지, 대전상대의 모든 시그니는 능력을 잃는다."
+            ],
+            [
+                "[출현]",
+                "(C)",
+                "(C)",
+                " : 당신의 덱 위에서 카드를 4장 공개한다. 그 중에서 똑같은 클래스를 가진 시그니 2장을 패에 넣고, 나머지를 원하는 순서대로 덱 맨 밑에 둔다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다. 당신의 라이프크로스가 4장 이하인 경우, 추가로 [에나차지 1]을 한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-026",
+        "name": "염마의 풍양 슈브＝니그라",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-026.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[자동]",
+                "[비트]",
+                "레벨 1~4가 각 1장 이상¶",
+                " : 이 시그니가 어택했을 때, 대전상대 라이프크로스 1장을 크래시한다."
+            ],
+            [
+                "[기동]",
+                "[비트]",
+                "4장 이하¶",
+                "[턴 1]",
+                "장의 다른 시그니 1장을 [비트]로 한다 : 이하 2가지 중 1가지를 고른다. 턴 종료시까지 이 시그니는 고른 능력을 얻는다. ① [어새신] ② [더블 크래시]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 ＜악마＞ 시그니를 2장까지 패에 넣는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-029",
+        "name": "염익의 상파",
+        "category": "스펠",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-029.jpg",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "당신의 [비트] 가 4장 이하인 경우, 당신의 트래시에서 ＜악마＞ 시그니 1장을 [비트]로 한다. 이 방법으로 당신의 [비트]가 4장이 되었을 경우, 카드를 2장 뽑는다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 ＜악마＞ 시그니를 1장 패에 넣는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-030",
+        "name": "노서 제로이고나",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-030.jpg",
+        "class": "정무:웨폰",
+        "limitation": "나나시 한정",
+        "textsize": 22,
+        "effect": [
+            [
+                "[라이즈조건]",
+                " 당신의 ＜웨폰＞ 시그니 하나 위에 둔다."
+            ],
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 이 시그니 아래에 카드가 2장 이상 있는 경우, 대전상대의 시그니 하나를 배니시한다. 5장 이상 있는 경우, 대신 트래시에 둔다."
+            ],
+            [
+                "[출현]",
+                " : 당신의 모든 ＜웨폰＞ 시그니 아래에 당신의 트래시에서 시그니를 1장씩 둔다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 턴 종료시까지, 대전상대의 시그니 하나의 파워를 -13000 한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-031",
+        "name": "노서 더 로우",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-031.jpg",
+        "class": "정무:웨폰",
+        "textsize": 24,
+        "effect": [
+            [
+                "[라이즈조건]",
+                " 당신의 시그니 둘 위에 둔다. (어느 한 쪽의 시그니가 있는 시그니 존에 낸다)"
+            ],
+            [
+                "[기동]",
+                "[어택페이즈]",
+                "이 시그니 아래에 있는 카드 1장을 트래시에 둔다 : 턴 종료시까지, 대전상대의 시그니 하나의 파워를 -4000 한다."
+            ],
+            [
+                "[기동]",
+                "[턴 1]",
+                "(C)",
+                " : 당신의 트래시에서 시그니 1장을 패에 넣는다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 시그니 1장을 패에 넣는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-035",
+        "name": "코드ＶＬ 도라",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-035.jpg",
+        "class": "정계:전기",
+        "limitation": "니지산지 한정",
+        "effect": [
+            [
+                "[출현]",
+                "(W)",
+                " : 대전상대의 레벨 2 이하의 시그니 하나를 패로 되돌린다. 당신의 등록자수가 100만명을 달성하고 있는 경우, 대신 대전상대의 레벨 3 이하의 시그니 하나를 패로 되돌린다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 어느 한 쪽을 고른다. ① 카드를 1장 뽑는다. ② 대전상대의 레벨 1 이하의 시그니 하나를 패로 되돌린다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-037",
+        "name": "코드ＶＬ 린도우 미코토",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-037.jpg",
+        "class": "정계:전기",
+        "limitation": "니지산지 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때,",
+                "(W)",
+                "을 지불해도 좋다. 그랬을 경우, 대전상대의 레벨 1 이하의 시그니 하나를 패로 되돌린다. 당신의 등록자수가 70만명을 달성하고 있는 경우, 추가로 [에나차지 1]을 한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-039",
+        "name": "코드ＶＬ 타카미야 리온",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-039.jpg",
+        "class": "정계:전기",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 당신의 덱 맨 위를 공개한다. 그것이 ＜전기＞ 시그니인 경우, 그것을 에나존에 둔다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-040",
+        "name": "워터・봄버",
+        "category": "스펠",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-040.jpg",
+        "limitation": "니지산지 한정",
+        "textsize": 23,
+        "effect": [
+            [
+                "이하 3가지 중에 2가지까지 고른다."
+            ],
+            [
+                "① 당신의 덱에서 시그니 1장을 찾아서 공개하여 패에 넣고, 덱을 셔플한다."
+            ],
+            [
+                "② 대전상대의 시그니 하나를 패로 되돌린다."
+            ],
+            [
+                "③ 당신의 등록자수가 100만명을 달성하고 있는 경우, 이 스펠을 패로 되돌린다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 덱에서 ＜전기＞ 시그니 1장을 찾아서 공개하고 패에 넣던가 장에 내고, 덱을 셔플한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-043",
+        "name": "염마의 악의 사마엘",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-043.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[출현]",
+                "[비트]",
+                "4장 이하¶",
+                "《염마의 공작 카임》 이외의 다른 시그니 1장을 [비트]로 한다 : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-045",
+        "name": "염마의 적부 우코바크",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-045.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 [비트]가 되었을 때, 당신의 [비트]가 3장인 경우, ",
+                "(R)",
+                "을 지불해도 좋다. 그랬을 경우, 턴 종료시까지, 당신의 ＜악마＞ 시그니 하나는 [더블 크래시]를 얻는다."
+            ],
+            [
+                "([더블 크래시]를 가진 시그니가 어택으로 인해 데미지를 준 경우 라이프크로스를 1장이 아닌 2장 크래시한다)"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-046",
+        "name": "염마의 주우 아그니",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-046.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[기동]",
+                "[비트]",
+                "4장 이하¶",
+                "이 시그니를 [비트]로 한다 : 당신의 트래시에서 레벨 2의 적색의 ＜악마＞ 시그니 1장을 장에 낸다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-048",
+        "name": "굉서 에노키안",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-048.jpg",
+        "class": "정무:웨폰",
+        "limitation": "나나시 한정",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 어택페이즈 동안, 이 시그니는 이 카드 아래에 있는 모든 레벨 3 이하의 흑색의 ＜웨폰＞ 시그니의 ",
+                "[자동]",
+                "을 얻는다."
+            ],
+            [
+                "[기동]",
+                "[턴 1]",
+                "(B)",
+                " : 당신의 트래시에서 시그니 1장을 당신의 ＜웨폰＞ 시그니 하나의 아래에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-050",
+        "name": "굉서 오우이",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-050.jpg",
+        "class": "정무:웨폰",
+        "limitation": "나나시 한정",
+        "effect": [
+            [
+                "[기동]",
+                "[턴 1]",
+                "(B)",
+                " : 당신의 시그니 아래에 있는 ＜웨폰＞ 시그니 1장을 패에 넣는다."
+            ],
+            [
+                "[상시]",
+                " : 이 시그니 위에 있는 ＜웨폰＞ 시그니는 「",
+                "[기동]",
+                "[턴 1]",
+                "(B)",
+                "(B)",
+                " : 당신의 시그니 아래에 있는 ＜웨폰＞ 시그니 1장을 패에 넣는다.」를 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-052",
+        "name": "폭서 그랜그",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-052.jpg",
+        "class": "정무:웨폰",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 이 시그니 아래에 있는 카드 1장을 트래시에 두어도 좋다. 그랬을 경우, 턴 종료시까지, 대전상대 시그니 하나의 파워를 -3000 한다. (파워가 0 이하의 시그니는 룰에 의해 배니시된다)"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-053",
+        "name": "소서 서티",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-053.jpg",
+        "class": "정무:웨폰",
+        "limitation": "나나시 한정",
+        "effect": [
+            [
+                "[기동]",
+                " : 이 시그니가 어택했을 때, ",
+                "(B)",
+                "을 지불해도 좋다. 그랬을 경우, 턴 종료시까지 대전상대의 시그니 하나의 파워를 -1000 한다. 이 시그니 아래에 카드가 있는 경우, 대신 -3000 한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-056",
+        "name": "코드ＶＬ 아스카 히나",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-056.jpg",
+        "class": "정계:전기",
+        "limitation": "니지산지 한정",
+        "effect": [
+            [
+                "[출현]",
+                "(W)",
+                " : 당신의 덱 위에서 카드를 3장 본다. 그 안에서 1장을 패에 넣고, 1장을 덱 맨 위에 두고, 남은 걸 덱 맨 아래에 둔다."
+            ],
+            [
+                "[기동]",
+                "(W)",
+                "(C)",
+                "이 시그니를 장에서 트래시에 둔다 : 당신의 등록자수가 100만명을 달성하고 있는 경우, 턴 종료시까지, 당신의 시그니 하나는 「",
+                "[자동]",
+                "[턴 1]",
+                " : 이 시그니가 어택했을 때, 이 시그니를 업한다.」를 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-061",
+        "name": "코드ＶＬ 츠키미 시즈쿠",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-061.jpg",
+        "class": "정계:전기",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 등록자수가 40만명을 달성하고 있는 한, 이 시그니의 파워는 +5000 된다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-064",
+        "name": "코드ＶＬ 아메모리 사요",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-064.jpg",
+        "class": "정계:전기",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 등록자수가 40만명을 달성하고 있는 한, 이 시그니의 파워는 +3000 된다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-068",
+        "name": "염마의 미화 아이트와라스",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-068.jpg",
+        "class": "정상:악마",
+        "limitation": "타윌 한정",
+        "effect": [
+            [
+                "[출현]",
+                "[비트]",
+                "4장 이하¶",
+                "이 시그니와 다른 시그니를 [비트]로 한다 : 대전상대의 시그니 하나를 배니시한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-074",
+        "name": "염마의 삼족 카우",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-074.jpg",
+        "class": "정상:악마",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 [비트]가 되었을 때, ",
+                "(R)",
+                "을 지불해도 좋다. 그랬을 경우, 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-082",
+        "name": "굉서 겐다",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-082.jpg",
+        "class": "정무:웨폰",
+        "effect": [
+            [
+                "[출현]",
+                " : 당신의 시그니 아래에 있는 카드 2장을 트래시에 둔다 : 턴 종료시까지, 대전상대의 시그니 하나의 파워를 0으로 한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-084",
+        "name": "폭서 알마데",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-084.jpg",
+        "class": "정무:웨폰",
+        "limitation": "나나시 한정",
+        "effect": [
+            [
+                "[출현]",
+                " : 당신의 덱 위에서 카드를 2장 본다. 그 안에서 1장을 당신의 ＜웨폰＞ 시그니 아래에 둔다. 남은 걸 덱 맨 아래에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-088",
+        "name": "소서 킨우기",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-088.jpg",
+        "class": "정무:웨폰",
+        "limitation": "나나시 한정",
+        "effect": [
+            [
+                "[출현]",
+                " : 당신의 덱 맨 위의 카드를 당신의 ＜웨폰＞ 시그니 아래에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-086",
+        "name": "소서 알베르",
+        "category": "시그니",
+        "color": "B",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-086.jpg",
+        "class": "정무:웨폰",
+        "effect": [
+            [
+                "[상시]",
+                " : 이 시그니 위에 있는 ＜웨폰＞ 시그니의 파워를 +2000 한다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-089",
+        "name": "서번트 Ｑ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-089.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-090",
+        "name": "서번트 Ｔ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-090.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-091",
+        "name": "서번트 Ｄ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-091.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-092",
+        "name": "서번트 Ｏ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-092.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-093",
+        "name": "서번트 Ｑ２",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-093.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-094",
+        "name": "서번트 Ｔ２",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-094.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-095",
+        "name": "서번트 Ｄ２",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-095.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-096",
+        "name": "서번트 Ｏ２",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-096.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-097",
+        "name": "서번트 Ｑ４",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-097.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 ＜정원＞ 시그니 1장을 패로 넣는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-098",
+        "name": "서번트 Ｔ４",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-098.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 ＜정원＞ 시그니 1장을 패로 넣는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-099",
+        "name": "서번트 Ｄ４",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-099.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 ＜정원＞ 시그니 1장을 패로 넣는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK08-100",
+        "name": "서번트 Ｏ４",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK08/WXK08-100.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 ＜정원＞ 시그니 1장을 패로 넣는다."
+            ]
+        ]
+    }
+]

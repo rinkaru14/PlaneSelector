@@ -1,0 +1,40 @@
+﻿[
+    {
+        "no": "WXK04-015",
+        "name": "진호국과",
+        "category": "키",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK04/WXK04-015.jpg",
+        "effect": [
+            [
+                "[출현]",
+                " : 이하 4가지 중에 2가지까지 고른다."
+            ],
+            [
+                "① 대전상대의 시그니 하나를 배니시한다."
+            ],
+            [
+                "② 당신의 트래시에서 무색이 아닌 시그니 하나를 패에 넣는다."
+            ],
+            [
+                "③ 대전상대의 패를 1장 보지 않고 골라 버리게 한다."
+            ],
+            [
+                "④ [에나차지 1]"
+            ],
+            [
+                "[기동]",
+                "이 키를 장에서 루리그트래시로 둔다 : 턴 종료시까지 당신의 적색 시그니 하나는 [더블 크래시]를 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK04-063",
+        "name": "나식 이누쇼우마",
+        "category": "시그니",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK04/WXK04-063.jpg",
+        "class": "정라:식물"
+    }
+]
+

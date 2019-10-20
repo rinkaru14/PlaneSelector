@@ -1,0 +1,346 @@
+﻿[
+    {
+        "no": "WDK09-001",
+        "name": "주세의 건주 움르＝퓌라",
+        "category": "루리그",
+        "type": "움르",
+        "color": "U",
+        "coin": 3,
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-001.jpg",
+        "textsize": 23,
+        "effect": [
+            [
+                "[출현]",
+                " : 대전상대 시그니 존 하나에 [게이트] 하나를 둔다. 카드 1장을 뽑는다."
+            ],
+            [
+                "[자동]",
+                " : 대전상대의 어택페이즈 개시시, 대전상대는 덱 맨 위를 공개한다. 그것이 ",
+                "[라이프버스트]",
+                "를 가지지 않은 경우, 이번 턴, 대전상대는 [게이트]가 있는 시그니 존에 있는 시그니로 공격할 수 없다."
+            ],
+            [
+                "[기동]",
+                "[게임 1]",
+                "【프라이멀】",
+                "(Coin)",
+                " : 대전상대는, 게이트가 있는 자신의 시그니 존에 있는 모든 시그니를 덱에 넣고 셔플한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-002",
+        "name": "주세의 건주 움르＝트레",
+        "category": "루리그",
+        "type": "움르",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-002.jpg",
+        "effect": [
+            [
+                "[출현]",
+                " : ",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-003",
+        "name": "주세의 건주 움르＝트보",
+        "category": "루리그",
+        "type": "움르",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-003.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "(Coin)",
+                " : ",
+                "카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-004",
+        "name": "주세의 건주 움르＝에트",
+        "category": "루리그",
+        "type": "움르",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-004.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "패를 1장 버린다 : ",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-005",
+        "name": "주세의 건주 움르＝놀",
+        "category": "루리그",
+        "type": "움르",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-005.jpg"
+    },
+    {
+        "no": "WDK09-006",
+        "name": "브릴리언트・에코",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-006.jpg",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "앵콜 - ",
+                "(Coin)",
+                "(Coin)",
+                " (앵콜 코스트를 추가로 지불해도 좋다. 그랬을 경우, 이것은 추가로 「이 카드를 루리그 덱으로 되돌린다.」를 얻는다)"
+            ],
+            [
+                "대전상대 시그니 존 하나에 [게이트] 하나를 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-007",
+        "name": "돈・리브미",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-007.jpg",
+        "effect": [
+            [
+                "대전상대의 시그니를 2장까지 다운한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-008",
+        "name": "포르테・발레노",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-008.jpg",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "카드 2장을 뽑는다. 대전상대 장에 키가 있는 경우, 대전상대는 패를 2장 버린다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-009",
+        "name": "눈부신 자 타윌",
+        "category": "키",
+        "color": "W",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-009.jpg",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 루리그는 이하의 능력을 얻는다."
+            ],
+            [
+                "[위공백]",
+                " 『",
+                "[기동]",
+                "[어택 페이즈]",
+                "엑시드 2 : 턴 종료시까지, 대전상대의 시그니 하나는 「어택할 수 없다.」를 얻는다.』",
+                "[아래공백]"
+            ],
+            [
+                "[상시]",
+                " : 대전상대의 패 상한은 1 줄어든다."
+            ],
+            [
+                "[출현]",
+                " : 당신의 루리그가 ＜움르＞인 경우, 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-010",
+        "name": "레이즈・오브・엣지",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈",
+            "메인페이즈"
+        ],
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-010.jpg",
+        "effect": [
+            [
+                "대전상대 시그니 하나를 트래시에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-011",
+        "name": "코드메이즈 류죠우",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-011.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 대전상대의 어택페이즈 개시시, 숫자 하나를 선언한다. 대전상대의 덱 맨 위의 카드를 트래시로 둔다. 그것이 선언한 숫자와 같은 레벨의 시그니인 경우, 카드를 1장 뽑는다."
+            ],
+            [
+                "[출현]",
+                "(U)",
+                " : [게이트]가 있는 시그니 존에 있는 대전상대 시그니 하나를 덱 맨 위에서부터 3번째에 둔다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 패를 1장 버린다. 대전상대 시그니 하나를 덱 맨 위에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-012",
+        "name": "코드메이즈 파블로페",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-012.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[기동]",
+                "(U)",
+                "(U)",
+                "(Down)",
+                " : 대전상대 시그니 하나를 덱 맨 위에서부터 3번째에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-013",
+        "name": "코드메이즈 Ｂ・스카이쥬",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-013.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 당신의 효과 하나로 인해 대전상대의 카드가 1장 이상 덱으로 이동했을 때, 턴 종료시까지, 대전상대 시그니 하나의 파워를 -2000 한다. (하나의 효과로 2장 이상 이동해도 한 번밖에 발동하지 않는다)"
+            ],
+            [
+                "[출현]",
+                " : 대전상대의 트래시에서 카드를 2장까지 덱 맨 아래에 둔다. (두는 순서는 대전상대가 고른다)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-014",
+        "name": "코드메이즈 오타루",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-014.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 당신의 어택 페이즈 개시시, 이번 턴에 대전상대 카드가 당신의 효과에 의해 4장 이상 덱으로 이동했을 경우, 카드를 1장 뽑는다."
+            ],
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 이번 턴 대전상대 카드가 당신의 효과에 의해 1장 이상 덱으로 이동했을 경우, 카드를 1장 뽑는다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-015",
+        "name": "코드메이즈 벤쿠버",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-015.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[기동]",
+                "[턴 1]",
+                "[메인페이즈]",
+                "[어택페이즈]",
+                "(U0)",
+                " : 대전상대 트래시에서 카드 1장을 덱 맨 아래에 둔다. 그랬을 경우, 시그니 하나를 다른 시그니 존에 배치해도 좋다. (이미 시그니가 있는 시그니 존에는 배치할 수 없다)"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-016",
+        "name": "코드메이즈 카이유",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-016.jpg",
+        "class": "정계:미궁"
+    },
+    {
+        "no": "WDK09-017",
+        "name": "코드메이즈 마리나카",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-017.jpg",
+        "class": "정계:미궁",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "[출현]",
+                " : 이 시그니가 중앙의 시그니 존에 나온 경우, 대전상대의 패를 보고 무색이 아닌 카드를 1장까지 고른다. 카드를 1장 고른 경우, 대전상대는 그것을 덱 맨 아래에 두고 카드를 1장 뽑는다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK09-022",
+        "name": "ＢＲＩＧＨＴＮＥＳＳ",
+        "category": "스펠",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK09/WDK09-022.jpg",
+        "limitation": "움르 한정",
+        "effect": [
+            [
+                "이하 2개 중에 1개를 고른다."
+            ],
+            [
+                "① 당신의 ＜미궁＞ 시그니 하나를 장에서 트래시로 둔다. 그랬을 경우, 당신의 트래시에서 ＜미궁＞ 시그니 1장을 패에 넣는다."
+            ],
+            [
+                "② [에나차지 1]"
+            ]
+        ]
+    }
+]

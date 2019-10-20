@@ -1,0 +1,90 @@
+﻿[
+    {
+        "no": "WXK03-012",
+        "name": "아로스・피루루크 Γ",
+        "category": "루리그",
+        "type": "피루루크",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK03/WXK03-012.jpg",
+        "effect": [
+            [
+                "[출현]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK03-024",
+        "name": "마계의 천야 셰에라자",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK03/WXK03-024.jpg",
+        "class": "정상:악마",
+        "limitation": "피루루크 한정",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 패가 0장인 한 이 시그니의 파워는 +2000 된다."
+            ],
+            [
+                "[자동]",
+                " : 각 플레이어의 턴 개시시, 당신은 패를 1장 버린다."
+            ],
+            [
+                "[자동]",
+                "[턴 2]",
+                " : 가드 스텝 이외에 당신이 패를 1장 버릴 때, 턴 종료시까지, 대전상대 시그니 하나의 파워를 -6000 한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신은 패를 2장 버린다. 턴 종료시, 카드를 2장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WXK03-064",
+        "name": "마계의 공작 케로켈",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK03/WXK03-064.jpg",
+        "class": "정상:악마",
+        "limitation": "피루루크 한정",
+        "effect": [
+            [
+                "[자동]",
+                "[턴 1]",
+                " : 가드 스텝 이외에 당신이 패를 1장 버릴 때, 턴 종료시까지 대전상대 시그니 하나의 파워를 -2000 한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WXK03-065",
+        "name": "마계의 파편 카가미",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WXK03/WXK03-065.jpg",
+        "class": "정상:악마",
+        "limitation": "피루루크 한정",
+        "effect": [
+            [
+                "[자동]",
+                "[턴 1]",
+                " : 가드 스텝 이외에 당신이 패를 1장 버릴 때, 턴 종료시까지, 대전상대 시그니 하나의 파워를 -1000 한다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    }
+]
