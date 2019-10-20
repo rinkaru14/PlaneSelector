@@ -86,6 +86,7 @@ namespace PlaneSelector
         {
             switch (type)
             {
+                
                 case "타마":
                 case "움르":
                 case "나나시":
@@ -94,6 +95,7 @@ namespace PlaneSelector
                 case "피루루크":
                 case "리멤버":
                 case "타윌":
+                case "미도리코":
                     return 96;
                 case "니지산지":
                     return 124;
@@ -115,6 +117,7 @@ namespace PlaneSelector
                 case "타윌 한정":
                     return 140;
                 case "피루루크 한정":
+                case "미도리코 한정":
                     return 148;
                 case "니지산지 한정":
                     return 172;
@@ -173,6 +176,8 @@ namespace PlaneSelector
             else if (word == "(U1)") paragraph.Inlines.Add(Createicon("ena_u1", fontsize));
             else if (word == "(U2)") paragraph.Inlines.Add(Createicon("ena_u2", fontsize));
             else if (word == "(G)") paragraph.Inlines.Add(Createicon("ena_g", fontsize));
+            else if (word == "(G0)") paragraph.Inlines.Add(Createicon("ena_g0", fontsize));
+            else if (word == "(G1)") paragraph.Inlines.Add(Createicon("ena_g1", fontsize));
             else if (word == "(B)") paragraph.Inlines.Add(Createicon("ena_b", fontsize));
             else if (word == "(B2)") paragraph.Inlines.Add(Createicon("ena_b2", fontsize));
             else if (word == "(C)") paragraph.Inlines.Add(Createicon("ena_c", fontsize));
@@ -195,7 +200,7 @@ namespace PlaneSelector
         public MainWindow()
         {
 
-            string packindex = "WDK01";
+            string packindex = "WDK03";
             string packst = File.ReadAllText(@"..\..\Texts\" + packindex + ".json");
             JArray pack = JArray.Parse(packst);
 
