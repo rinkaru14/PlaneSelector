@@ -58,7 +58,7 @@ namespace PlaneSelector
             string mypath = (@"..\..\Icons\" + name + ".png");
 
             BitmapImage tempimg = new BitmapImage(new Uri(Directory.GetCurrentDirectory() + @"..\..\..\Icons\" + name + ".png", UriKind.Absolute));
-            InlineUIContainer tempicon = new InlineUIContainer(new Image { Source = tempimg, Width = tempimg.PixelWidth*fontsize/30, Height = tempimg.PixelHeight * fontsize / 30, VerticalAlignment = VerticalAlignment.Center });
+            InlineUIContainer tempicon = new InlineUIContainer(new Image { Source = tempimg, Width = tempimg.PixelWidth*fontsize/32, Height = tempimg.PixelHeight * fontsize / 32, VerticalAlignment = VerticalAlignment.Center });
             tempicon.BaselineAlignment = BaselineAlignment.Center;
             return tempicon;
         }
@@ -89,6 +89,7 @@ namespace PlaneSelector
                 case "타마":
                 case "움르":
                 case "나나시":
+                case "레이라":
                     return 72;
                 case "피루루크":
                 case "리멤버":
@@ -109,6 +110,7 @@ namespace PlaneSelector
                     return 104;
                 case "움르 한정":
                 case "나나시 한정":
+                case "레이라 한정":
                     return 122;
                 case "타윌 한정":
                     return 140;
@@ -145,6 +147,7 @@ namespace PlaneSelector
         void wordadd(String word, Paragraph paragraph, int fontsize)
         {
             if (word == "[상시]") paragraph.Inlines.Add(Createicon("constant", fontsize));
+            else if (word == "[드라이브 상시]") paragraph.Inlines.Add(Createicon("drive_constant", fontsize));
             else if (word == "[출현]") paragraph.Inlines.Add(Createicon("on_play", fontsize));
             else if (word == "[자동]") paragraph.Inlines.Add(Createicon("auto", fontsize));
             else if (word == "[기동]") paragraph.Inlines.Add(Createicon("action", fontsize));
@@ -152,6 +155,7 @@ namespace PlaneSelector
             else if (word == "[턴 2]") paragraph.Inlines.Add(Createicon("turn2", fontsize));
             else if (word == "[비트]") paragraph.Inlines.Add(Createicon("beat", fontsize));
             else if (word == "[게임 1]") paragraph.Inlines.Add(Createicon("game1", fontsize));
+            else if (word == "[라이드]") paragraph.Inlines.Add(Createicon("ride", fontsize));
             else if (word == "[라이즈조건]") paragraph.Inlines.Add(Createicon("risecondition", fontsize));
             else if (word == "[라이즈]") paragraph.Inlines.Add(Createicon("rise", fontsize));
             else if (word == "[메인페이즈]") paragraph.Inlines.Add(Createicon("mainphase", fontsize));
@@ -162,6 +166,7 @@ namespace PlaneSelector
             else if (word == "(W0)") paragraph.Inlines.Add(Createicon("ena_w0", fontsize));
             else if (word == "(W2)") paragraph.Inlines.Add(Createicon("ena_w2", fontsize));
             else if (word == "(R)") paragraph.Inlines.Add(Createicon("ena_r", fontsize));
+            else if (word == "(R0)") paragraph.Inlines.Add(Createicon("ena_r0", fontsize));
             else if (word == "(R2)") paragraph.Inlines.Add(Createicon("ena_r2", fontsize));
             else if (word == "(U)") paragraph.Inlines.Add(Createicon("ena_u", fontsize));
             else if (word == "(U0)") paragraph.Inlines.Add(Createicon("ena_u0", fontsize));
@@ -190,7 +195,7 @@ namespace PlaneSelector
         public MainWindow()
         {
 
-            string packindex = "WXK08";
+            string packindex = "WDK01";
             string packst = File.ReadAllText(@"..\..\Texts\" + packindex + ".json");
             JArray pack = JArray.Parse(packst);
 

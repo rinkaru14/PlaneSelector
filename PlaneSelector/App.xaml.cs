@@ -13,6 +13,6 @@ namespace PlaneSelector
     /// </summary>
     public partial class App : Application
     {
-        MainWindow window = new MainWindow();
+        //MainWindow window = new MainWindow();
     }
 }

@@ -1,0 +1,408 @@
+﻿[
+    /// <summary>
+    /// WDK01 Red Doping
+    /// </summary>
+    {
+        "no": "WDK01-001",
+        "name": "레이라＝풀 스로틀",
+        "category": "루리그",
+        "type": "레이라",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-001.jpg",
+        "effect": [
+            [
+                "[라이드]"
+            ],
+            [
+                "[출현]",
+                "(R)",
+                " : 대전상대의 시그니 하나를 배니시한다."
+            ],
+            [
+                "[기동]",
+                "(Coin)",
+                " : 당신의 덱에서 ＜승기＞ 시그니 하나를 찾아서 장에 꺼내고, 덱을 셔플한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-002",
+        "name": "레이라＝브레이크",
+        "category": "루리그",
+        "type": "레이라",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-002.jpg",
+        "effect": [
+            [
+                "[라이드]",
+                "(턴 종료시까지, 이 루리그는 당신의 ＜승기＞ 시그니 1체에 탑승한다. 이것은 코스트가 ",
+                "(R0)",
+                "인 ",
+                "[기동]",
+                "능력으로, 한 턴에 한 번, 이 루리그가 드라이브 상태가 아닌 경우에 사용할 수 있다)"
+            ],
+            [
+                "(루리그가 시그니에 타고 있는 한, 그것들은 드라이브 상태이다. 드라이브 상태인 루리그는 어택할 수 없다)"
+            ],
+            [
+                "[출현]",
+                "(R)",
+                " : ",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-003",
+        "name": "레이라＝코너",
+        "category": "루리그",
+        "type": "레이라",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-003.jpg",
+        "effect": [
+            [
+                "[라이드]",
+                "(턴 종료시까지, 이 루리그는 당신의 ＜승기＞ 시그니 1체에 탑승한다. 이것은 코스트가 ",
+                "(R0)",
+                "인 ",
+                "[기동]",
+                "능력으로, 한 턴에 한 번, 이 루리그가 드라이브 상태가 아닌 경우에 사용할 수 있다)"
+            ],
+            [
+                "(루리그가 시그니에 타고 있는 한, 그것들은 드라이브 상태이다. 드라이브 상태인 루리그는 어택할 수 없다)"
+            ],
+            [
+                "[출현]",
+                "(Coin)",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-004",
+        "name": "레이라＝클러치",
+        "category": "루리그",
+        "type": "레이라",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-004.jpg",
+        "effect": [
+            [
+                "[라이드]",
+                "(턴 종료시까지, 이 루리그는 당신의 ＜승기＞ 시그니 1체에 탑승한다. 이것은 코스트가 ",
+                "(R0)",
+                "인 ",
+                "[기동]",
+                "능력으로, 한 턴에 한 번, 이 루리그가 드라이브 상태가 아닌 경우에 사용할 수 있다)"
+            ],
+            [
+                "(루리그가 시그니에 타고 있는 한, 그것들은 드라이브 상태이다. 드라이브 상태인 루리그는 어택할 수 없다)"
+            ],
+            [
+                "[출현]",
+                "패를 1장 버린다 : ",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-005",
+        "name": "레이라＝뉴트럴",
+        "category": "루리그",
+        "type": "레이라",
+        "color": "R",
+        "coin": 3,
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-005.jpg"
+    },
+    {
+        "no": "WDK01-006",
+        "name": "분골쇄신",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-006.jpg",
+        "effect": [
+            [
+                "대전상대의 시그니 2장을 배니시한다. (하나의 시그니만을 고를 수 없다)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-007",
+        "name": "질실굉건",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-007.jpg",
+        "limitation": "레이라 한정",
+        "textsize": 26,
+        "effect": [
+            [
+                "배트 - ",
+                "(Coin)"
+            ],
+            [
+                "당신이 배트한 경우, 이 아츠를 사용하기 위한 코스트는 ",
+                "(R0)",
+                "이 된다."
+            ],
+            [
+                "턴 종료시까지 당신의 드라이브 상태인 시그니 하나는 [더블 크래시]를 얻는다. 그 시그니가 레벨 3 이상인 경우, 대신 [트리플 크래시]를 얻는다. ([더블 크래시]를 가진 시그니가 어택으로 데미지를 준 경우, 라이프크로스는 1장이 아닌 2장을 크래시한다. [트리플 크래시]인 경우, 3장을 크래시한다)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-008",
+        "name": "화기상당",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈",
+            "메인페이즈"
+        ],
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-008.jpg",
+        "limitation": "레이라 한정",
+        "effect": [
+            [
+                "이하 2가지 중에 1가지를 고른다."
+            ],
+            [
+                "① 턴 종료시까지, 당신의 루리그 하나는 당신의 ＜승기＞ 시그니에 탄다. (이미 다른 시그니에 탄 경우, 갈아탄다)"
+            ],
+            [
+                "② 당신의 덱 위에서부터 5장을 본다. 그 중에 ＜승기＞ 시그니를 3장까지 공개하고 패에 넣는다. 남은 건 셔플해서 덱 맨 밑에 둔다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-009",
+        "name": "검발노소",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈",
+            "메인페이즈"
+        ],
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-009.jpg",
+        "effect": [
+            [
+                "이 아츠는 당신의 루리그가 적색인 경우에밖에 사용할 수 없다."
+            ],
+            [
+                "대전상대의 시그니 하나를 배니시한다. 당신은 패를 2장 버린다. (패가 1장 이하에서 사용한 경우, 전부 버린다)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-010",
+        "name": "팬텀・가든",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-010.jpg",
+        "effect": [
+            [
+                "배트 - ",
+                "(Coin)"
+            ],
+            [
+                "(이 아츠를 사용할 때, ",
+                "(Coin)",
+                "을 지불해도 좋다)"
+            ],
+            [
+                "당신의 트래시에서 당신의 루리그와 같은 색을 가진 각각의 레벨이 다른 시그니를 3장까지 패로 넣는다. 당신이 배트한 경우, 3장 대신 4장까지 패로 넣는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-011",
+        "name": "코드라이드 야마테",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-011.jpg",
+        "class": "정계:승기",
+        "limitation": "레이라 한정",
+        "effect": [
+            [
+                "[드라이브 상시]",
+                " : 이 시그니의 파워는 +3000 되며, 이 시그니는 「",
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 자신의 파워 이하인 대전상대의 시그니 하나를 배니시한다.」를 얻는다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 대전상대의 파워 12000 이하인 시그니 하나를 배니시한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-012",
+        "name": "코드라이드 로멘",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-012.jpg",
+        "class": "정계:승기",
+        "limitation": "레이라 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 드라이브 상태가 되었을 때, 대전상대의 시그니 하나를 배니시한다. (루리그가 시그니에 타면 그것들은 드라이브 상태가 된다)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-013",
+        "name": "코드라이드 토큐",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-013.jpg",
+        "class": "정계:승기",
+        "limitation": "레이라 한정",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 장에 드라이브 상태의 시그니가 있는 한, 이 시그니의 파워는 +4000 된다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-014",
+        "name": "코드라이드 신칸",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-014.jpg",
+        "class": "정계:승기",
+        "limitation": "레이라 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 드라이브 상태가 되었을 때, 대전상대의 파워 10000 이하 시그니 하나를 배니시한다. (루리그가 시그니에 타면 그것들은 드라이브 상태가 된다)"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-015",
+        "name": "코드라이드 웨건",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-015.jpg",
+        "class": "정계:승기",
+        "limitation": "레이라 한정",
+        "effect": [
+            [
+                "[드라이브 상시]",
+                " : 이 시그니의 파워는 +7000 된다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-016",
+        "name": "코드라이드 후츠지",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-016.jpg",
+        "class": "정계:승기"
+    },
+    {
+        "no": "WDK01-017",
+        "name": "코드라이드 고카트",
+        "category": "시그니",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-017.jpg",
+        "class": "정계:승기",
+        "limitation": "레이라 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 드라이브 상태가 되었을 때, 대전상대의 파워 3000 이하 시그니 하나를 배니시한다. (루리그가 시그니에 타면 그것들은 드라이브 상태가 된다)"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-018",
+        "name": "서번트 Ｄ４",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-018.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 ＜정원＞ 시그니 1장을 패로 넣는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-019",
+        "name": "서번트 Ｏ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-019.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WDK01-020",
+        "name": "광명의 유성",
+        "category": "스펠",
+        "color": "R",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-020.jpg",
+        "limitation": "레이라 한정",
+        "effect": [
+            [
+                "이하 2개 중에 1개를 고른다."
+            ],
+            [
+                "① 당신의 ＜승기＞ 시그니 하나를 장에서 트래시로 둔다. 그랬을 경우, 대전상대의 파워 12000 이하 시그니 하나를 배니시한다."
+            ],
+            [
+                "② [에나차지 1]"
+            ]
+        ]
+    }
+]
