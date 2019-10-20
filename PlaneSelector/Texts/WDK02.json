@@ -1,9 +1,60 @@
 ﻿[
-    ///
     /// <summary>
     /// WDK02 Blue Catharsis
     /// </summary>
-    ///
+    {
+        "no": "WDK02-001",
+        "name": "아로스・피루루크 ＴＥＴ",
+        "category": "루리그",
+        "type": "피루루크",
+        "color": "U",
+        "coin": 3,
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-001.jpg",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 루리그가 어택했을 때, ",
+                "(U)",
+                "을 지불해도 좋다. 그랬을 경우, 카드를 1장 뽑는다."
+            ],
+            [
+                "[출현]",
+                " : 대전상대의 패를 1장 보지 않고 골라서 버리게 한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-002",
+        "name": "아로스・피루루크 ＴＲＩ",
+        "category": "루리그",
+        "type": "피루루크",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-002.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "(U)",
+                " : ",
+                "(Coin)",
+                "을 얻는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-003",
+        "name": "아로스・피루루크 ＤＩ",
+        "category": "루리그",
+        "type": "피루루크",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-003.jpg",
+        "effect": [
+            [
+                "[출현]",
+                "(Coin)",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
     {
         "no": "WDK02-004",
         "name": "아로스・피루루크 ＭＯＮＯ",
@@ -21,8 +72,223 @@
         ]
     },
     {
-        "no": "WDK02-017",
+        "no": "WDK02-005",
+        "name": "아로스・피루루크",
+        "category": "루리그",
+        "type": "피루루크",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-005.jpg"
+    },
+    {
+        "no": "WDK02-006",
+        "name": "워스트・컨디션",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈",
+            "메인페이즈"
+        ],
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-006.jpg",
+        "limitation": "피루루크 한정",
+        "effect": [
+            [
+                "이 아츠는 대전상대의 패가 0장일 때밖에 사용할 수 없다."
+            ],
+            [
+                "대전상대의 시그니를 2장까지 배니시한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-007",
+        "name": "스리・더스트",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-007.jpg",
+        "effect": [
+            [
+                "이 아츠는 당신의 루리그가 레벨 3 이상인 경우밖에 사용할 수 없다."
+            ],
+            [
+                "대전상대의 패를 3장 보지 않고 골라, 버리게 한다. (패가 2장 이하인 경우 모두 버린다)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-008",
+        "name": "돈・리브미",
+        "category": "아츠",
+        "timing": [
+            "어택페이즈"
+        ],
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-008.jpg",
+        "effect": [
+            [
+                "배트 - ",
+                "(Coin)",
+                "(Coin)"
+            ],
+            [
+                "대전상대의 시그니를 1장 다운한다. 당신이 배트한 경우, 대신 대전상대의 시그니를 2장 다운한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-009",
+        "name": "코드・피루루크 ＫＥＹ",
+        "category": "키",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-009.jpg",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 레벨 2 이상 루리그는 이하의 능력을 얻는다."
+            ],
+            [
+                "[위공백]",
+                " 『",
+                "[기동]",
+                "[턴 1]",
+                "엑시드 1(이 루리그 밑에 있는 카드 1장을 루리그트래시로 보낸다) : 당신은 카드를 1장 뽑는다. 대전상대는 패를 1장 버린다."
+
+            ],
+            [
+                "　",
+                "[기동]",
+                "[턴 1]",
+                "[어택페이즈]",
+                "엑시드 2(이 루리그 밑에 있는 카드 2장을 루리그트래시로 보낸다): 대전상대의 시그니 하나를 다운하고 동결시킨다.』",
+                "[아래공백]"
+            ],
+            [
+                "(동결된 시그니는 다음 자신의 업 페이즈에 업 하지 않는다)"
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-010",
+        "name": "팬텀・가든",
+        "category": "아츠",
+        "timing": [
+            "메인페이즈"
+        ],
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-010.jpg",
+        "effect": [
+            [
+                "배트 - ",
+                "(Coin)"
+            ],
+            [
+                "(이 아츠를 사용할 때, ",
+                "(Coin)",
+                "을 지불해도 좋다)"
+            ],
+            [
+                "당신의 트래시에서 당신의 루리그와 같은 색을 가진 각각의 레벨이 다른 시그니를 3장까지 패로 넣는다. 당신이 배트한 경우, 3장 대신 4장까지 패로 넣는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-011",
+        "name": "마해의 홍창 스크류・카밀라",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-011.jpg",
+        "class": "정상:악마",
+        "limitation": "피루루크 한정",
+        "effect": [
+            [
+                "[자동]",
+                " : 이 시그니가 어택했을 때, 당신의 패가 1장 이하인 경우, 대전상대는 패를 1장 버린다."
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 대전상대의 패가 2장 이하인 경우, 대전상대의 시그니 1장을 배니시한다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-012",
+        "name": "마해의 점형 슬라임퀸",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-012.jpg",
+        "class": "정상:악마",
+        "limitation": "피루루크 한정",
+        "effect": [
+            [
+                "[출현]",
+                "패를 2장 버린다 : 대전상대의 시그니 하나를 배니시한다.."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-013",
+        "name": "마계의 점형 아머드슬라임",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-013.jpg",
+        "class": "정상:악마",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 패가 1장 이하인 한, 이 시그니의 파워는 +4000 된다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-014",
+        "name": "마해의 흑창 샤크스피어",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-014.jpg",
+        "class": "정상:악마",
+        "limitation": "피루루크 한정",
+        "effect": [
+            [
+                "[출현]",
+                " : 당신의 패가 2장 이하인 경우, 대전상대의 시그니 하나의 파워를 -1000 한다. 당신의 패가 0장인 경우, 대신 -5000 한다. (파워가 0 이하인 시그니는 룰에 의해 배니시된다)"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-015",
+        "name": "마해의 청창 샷코",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-015.jpg",
+        "class": "정상:악마",
+        "effect": [
+            [
+                "[상시]",
+                " : 당신의 패가 1장 이하인 한, 이 시그니의 파워는 +3000 된다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-016",
         "name": "마계의 점형 슬라임",
+        "category": "시그니",
+        "color": "U",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-016.jpg",
+        "class": "정상:악마"
+    },
+    {
+        "no": "WDK02-017",
+        "name": "마해의 불량 마노밍",
         "category": "시그니",
         "color": "U",
         "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-017.jpg",
@@ -38,6 +304,52 @@
             [
                 "[라이프버스트]",
                 " : 카드를 1장 뽑는다."
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-018",
+        "name": "서번트 Ｄ",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-018.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : [에나차지 1]"
+            ]
+        ]
+    },
+    {
+        "no": "WDK02-019",
+        "name": "서번트 Ｏ４",
+        "category": "시그니",
+        "color": "C",
+        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-019.jpg",
+        "class": "정원",
+        "effect": [
+            [
+                "[가드]"
+            ],
+            [
+                "[상시]",
+                " : [멀티에나]"
+            ]
+        ],
+        "lifeburst": [
+            [
+                "[라이프버스트]",
+                " : 당신의 트래시에서 ＜정원＞ 시그니 1장을 패로 넣는다."
             ]
         ]
     },
