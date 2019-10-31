@@ -203,7 +203,7 @@ namespace PlaneSelector
         public MainWindow()
         {
 
-            string packindex = "WXK01";
+            string packindex = "WDK03";
             string packst = File.ReadAllText(@"..\..\Texts\" + packindex + ".json");
             JArray pack = JArray.Parse(packst);
 
