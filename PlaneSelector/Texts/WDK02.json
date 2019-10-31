@@ -9,7 +9,6 @@
         "type": "피루루크",
         "color": "U",
         "coin": 3,
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-001.jpg",
         "effect": [
             [
                 "[자동]",
@@ -19,7 +18,7 @@
             ],
             [
                 "[출현]",
-                " : 대전상대의 패를 1장 보지 않고 골라서 버리게 한다."
+                " : 대전상대의 패를 1장 보지 않고 골라서, 버리게 한다."
             ]
         ]
     },
@@ -29,7 +28,6 @@
         "category": "루리그",
         "type": "피루루크",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-002.jpg",
         "effect": [
             [
                 "[출현]",
@@ -46,7 +44,6 @@
         "category": "루리그",
         "type": "피루루크",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-003.jpg",
         "effect": [
             [
                 "[출현]",
@@ -61,7 +58,6 @@
         "category": "루리그",
         "type": "피루루크",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-004.jpg",
         "effect": [
             [
                 "[출현]",
@@ -81,8 +77,7 @@
         "name": "아로스・피루루크",
         "category": "루리그",
         "type": "피루루크",
-        "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-005.jpg"
+        "color": "U"
     },
     {
         "no": "WDK02-006",
@@ -93,7 +88,6 @@
             "메인페이즈"
         ],
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-006.jpg",
         "limitation": "피루루크 한정",
         "effect": [
             [
@@ -112,7 +106,6 @@
             "메인페이즈"
         ],
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-007.jpg",
         "effect": [
             [
                 "이 아츠는 당신의 루리그가 레벨 3 이상인 경우밖에 사용할 수 없다."
@@ -130,7 +123,6 @@
             "어택페이즈"
         ],
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-008.jpg",
         "effect": [
             [
                 "배트 - ",
@@ -147,7 +139,6 @@
         "name": "코드・피루루크 ＫＥＹ",
         "category": "키",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-009.jpg",
         "effect": [
             [
                 "[상시]",
@@ -181,7 +172,6 @@
             "메인페이즈"
         ],
         "color": "C",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-010.jpg",
         "effect": [
             [
                 "배트 - ",
@@ -202,7 +192,6 @@
         "name": "마해의 홍창 스크류・카밀라",
         "category": "시그니",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-011.jpg",
         "class": "정상:악마",
         "limitation": "피루루크 한정",
         "effect": [
@@ -220,10 +209,9 @@
     },
     {
         "no": "WDK02-012",
-        "name": "마해의 점형 슬라임퀸",
+        "name": "마계의 점형 슬라임퀸",
         "category": "시그니",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-012.jpg",
         "class": "정상:악마",
         "limitation": "피루루크 한정",
         "effect": [
@@ -238,7 +226,6 @@
         "name": "마계의 점형 아머드슬라임",
         "category": "시그니",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-013.jpg",
         "class": "정상:악마",
         "effect": [
             [
@@ -252,7 +239,6 @@
         "name": "마해의 흑창 샤크스피어",
         "category": "시그니",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-014.jpg",
         "class": "정상:악마",
         "limitation": "피루루크 한정",
         "effect": [
@@ -273,7 +259,6 @@
         "name": "마해의 청창 샷코",
         "category": "시그니",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-015.jpg",
         "class": "정상:악마",
         "effect": [
             [
@@ -287,7 +272,6 @@
         "name": "마계의 점형 슬라임",
         "category": "시그니",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-016.jpg",
         "class": "정상:악마"
     },
     {
@@ -295,7 +279,6 @@
         "name": "마해의 불량 마노밍",
         "category": "시그니",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-017.jpg",
         "class": "정상:악마",
         "limitation": "피루루크 한정",
         "effect": [
@@ -316,7 +299,6 @@
         "name": "서번트 Ｄ",
         "category": "시그니",
         "color": "C",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-018.jpg",
         "class": "정원",
         "effect": [
             [
@@ -339,7 +321,6 @@
         "name": "서번트 Ｏ４",
         "category": "시그니",
         "color": "C",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-019.jpg",
         "class": "정원",
         "effect": [
             [
@@ -362,7 +343,6 @@
         "name": "ＤＥＶＩＬ ＳＥＡＬ",
         "category": "스펠",
         "color": "U",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK02/WDK02-020.jpg",
         "limitation": "피루루크 한정",
         "effect": [
             [

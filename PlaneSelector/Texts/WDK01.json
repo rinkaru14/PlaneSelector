@@ -8,7 +8,6 @@
         "category": "루리그",
         "type": "레이라",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-001.jpg",
         "effect": [
             [
                 "[라이드]"
@@ -31,7 +30,6 @@
         "category": "루리그",
         "type": "레이라",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-002.jpg",
         "effect": [
             [
                 "[라이드]",
@@ -59,7 +57,6 @@
         "category": "루리그",
         "type": "레이라",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-003.jpg",
         "effect": [
             [
                 "[라이드]",
@@ -85,7 +82,6 @@
         "category": "루리그",
         "type": "레이라",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-004.jpg",
         "effect": [
             [
                 "[라이드]",
@@ -112,8 +108,7 @@
         "category": "루리그",
         "type": "레이라",
         "color": "R",
-        "coin": 3,
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-005.jpg"
+        "coin": 3
     },
     {
         "no": "WDK01-006",
@@ -123,7 +118,6 @@
             "어택페이즈"
         ],
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-006.jpg",
         "effect": [
             [
                 "대전상대의 시그니 2장을 배니시한다. (하나의 시그니만을 고를 수 없다)"
@@ -138,7 +132,6 @@
             "메인페이즈"
         ],
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-007.jpg",
         "limitation": "레이라 한정",
         "textsize": 26,
         "effect": [
@@ -165,7 +158,6 @@
             "메인페이즈"
         ],
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-008.jpg",
         "limitation": "레이라 한정",
         "effect": [
             [
@@ -188,7 +180,6 @@
             "메인페이즈"
         ],
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-009.jpg",
         "effect": [
             [
                 "이 아츠는 당신의 루리그가 적색인 경우에밖에 사용할 수 없다."
@@ -206,7 +197,6 @@
             "메인페이즈"
         ],
         "color": "C",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-010.jpg",
         "effect": [
             [
                 "배트 - ",
@@ -227,7 +217,6 @@
         "name": "코드라이드 야마테",
         "category": "시그니",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-011.jpg",
         "class": "정계:승기",
         "limitation": "레이라 한정",
         "effect": [
@@ -250,7 +239,6 @@
         "name": "코드라이드 로멘",
         "category": "시그니",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-012.jpg",
         "class": "정계:승기",
         "limitation": "레이라 한정",
         "effect": [
@@ -265,7 +253,6 @@
         "name": "코드라이드 토큐",
         "category": "시그니",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-013.jpg",
         "class": "정계:승기",
         "limitation": "레이라 한정",
         "effect": [
@@ -280,7 +267,6 @@
         "name": "코드라이드 신칸",
         "category": "시그니",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-014.jpg",
         "class": "정계:승기",
         "limitation": "레이라 한정",
         "effect": [
@@ -301,7 +287,6 @@
         "name": "코드라이드 웨건",
         "category": "시그니",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-015.jpg",
         "class": "정계:승기",
         "limitation": "레이라 한정",
         "effect": [
@@ -316,7 +301,6 @@
         "name": "코드라이드 후츠지",
         "category": "시그니",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-016.jpg",
         "class": "정계:승기"
     },
     {
@@ -324,7 +308,6 @@
         "name": "코드라이드 고카트",
         "category": "시그니",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-017.jpg",
         "class": "정계:승기",
         "limitation": "레이라 한정",
         "effect": [
@@ -345,7 +328,6 @@
         "name": "서번트 Ｄ４",
         "category": "시그니",
         "color": "C",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-018.jpg",
         "class": "정원",
         "effect": [
             [
@@ -368,7 +350,6 @@
         "name": "서번트 Ｏ",
         "category": "시그니",
         "color": "C",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-019.jpg",
         "class": "정원",
         "effect": [
             [
@@ -391,7 +372,6 @@
         "name": "광명의 유성",
         "category": "스펠",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK01/WDK01-020.jpg",
         "limitation": "레이라 한정",
         "effect": [
             [

@@ -91,6 +91,7 @@ namespace PlaneSelector
                 case "움르":
                 case "나나시":
                 case "레이라":
+                case "구즈코":
                     return 72;
                 case "피루루크":
                 case "리멤버":
@@ -113,6 +114,7 @@ namespace PlaneSelector
                 case "움르 한정":
                 case "나나시 한정":
                 case "레이라 한정":
+                case "구즈코 한정":
                     return 122;
                 case "타윌 한정":
                     return 140;
@@ -151,6 +153,7 @@ namespace PlaneSelector
         {
             if (word == "[상시]") paragraph.Inlines.Add(Createicon("constant", fontsize));
             else if (word == "[드라이브 상시]") paragraph.Inlines.Add(Createicon("drive_constant", fontsize));
+            else if (word == "[드라이브 자동]") paragraph.Inlines.Add(Createicon("drive_auto", fontsize));
             else if (word == "[출현]") paragraph.Inlines.Add(Createicon("on_play", fontsize));
             else if (word == "[자동]") paragraph.Inlines.Add(Createicon("auto", fontsize));
             else if (word == "[기동]") paragraph.Inlines.Add(Createicon("action", fontsize));
@@ -200,7 +203,7 @@ namespace PlaneSelector
         public MainWindow()
         {
 
-            string packindex = "WDK03";
+            string packindex = "WXK01";
             string packst = File.ReadAllText(@"..\..\Texts\" + packindex + ".json");
             JArray pack = JArray.Parse(packst);
 
@@ -209,7 +212,9 @@ namespace PlaneSelector
                 String no = card["no"].ToObject<String>();
                 String name = card["name"].ToObject<String>();
                 String category = card["category"].ToObject<String>();
-                String imgurl = card["imgurl"].ToObject<String>();
+                String imgurl;
+                if ((card["imgurl"] != null)) imgurl = card["imgurl"].ToObject<String>();
+                else imgurl = "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/" + packindex + "/" + no + ".jpg";
                 String cardcolor = card["color"].ToObject<String>();
 
                 bool vertical = (category != "키");
@@ -385,7 +390,26 @@ namespace PlaneSelector
                     Canvas.SetLeft(Arts_index, 40);
                     canvas.Children.Add(Arts_index);
 
-                    TextBlock Arts_name = new TextBlock
+                    if ((card["craft"] != null))
+                    {
+                        TextBlock Arts_craft = new TextBlock
+                        {
+                            Text = "크래프트",
+                            Background = Brushes.Black,
+                            Foreground = Brushes.White,
+                            TextWrapping = TextWrapping.Wrap,
+                            TextAlignment = TextAlignment.Center,
+                            Width = 82,
+                            Height = 24,
+                            FontSize = 18,
+                            FontWeight = FontWeights.Bold
+                        };
+                        Canvas.SetTop(Arts_craft, 36);
+                        Canvas.SetLeft(Arts_craft, 144);
+                        canvas.Children.Add(Arts_craft);
+                    }
+
+                        TextBlock Arts_name = new TextBlock
                     {
                         Text = name,
                         Background = Colorfeed(cardcolor),

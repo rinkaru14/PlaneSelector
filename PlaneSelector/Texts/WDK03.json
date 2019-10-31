@@ -9,7 +9,6 @@
         "type": "미도리코",
         "color": "G",
         "coin": 3,
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-001.jpg",
         "effect": [
             [
                 "[기동]",
@@ -30,7 +29,6 @@
         "category": "루리그",
         "type": "미도리코",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-002.jpg",
         "effect": [
             [
                 "[출현]",
@@ -47,7 +45,6 @@
         "category": "루리그",
         "type": "미도리코",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-003.jpg",
         "effect": [
             [
                 "[출현]",
@@ -62,7 +59,6 @@
         "category": "루리그",
         "type": "미도리코",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-004.jpg",
         "effect": [
             [
                 "[출현]",
@@ -82,15 +78,13 @@
         "name": "투랑 미도리코",
         "category": "루리그",
         "type": "미도리코",
-        "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-005.jpg"
+        "color": "G"
     },
     {
         "no": "WDK03-006",
         "name": "이체동심 하나요",
         "category": "키",
         "color": "R",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-006.jpg",
         "effect": [
             [
                 "[상시]",
@@ -118,7 +112,6 @@
             "메인페이즈"
         ],
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-007.jpg",
         "limitation": "미도리코 한정",
         "effect": [
             [
@@ -136,7 +129,6 @@
             "메인페이즈"
         ],
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-008.jpg",
         "effect": [
             [
                 "배트 - ",
@@ -149,7 +141,7 @@
                 "이 된다."
             ],
             [
-                "당신의 덱 맨 위의 카드를 라이프클로스에 추가한다."
+                "당신의 덱 맨 위의 카드를 라이프크로스에 추가한다."
             ]
         ]
     },
@@ -162,7 +154,6 @@
             "메인페이즈"
         ],
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-009.jpg",
         "effect": [
             [
                 "배트 - ",
@@ -186,7 +177,6 @@
             "메인페이즈"
         ],
         "color": "C",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-010.jpg",
         "effect": [
             [
                 "배트 - ",
@@ -207,7 +197,6 @@
         "name": "환괴 피터",
         "category": "시그니",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-011.jpg",
         "class": "정생:괴이",
         "limitation": "미도리코 한정",
         "effect": [
@@ -229,7 +218,6 @@
         "name": "환괴 네코무스",
         "category": "시그니",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-012.jpg",
         "class": "정생:괴이",
         "limitation": "미도리코 한정",
         "effect": [
@@ -249,7 +237,6 @@
         "name": "환괴 누리카베",
         "category": "시그니",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-013.jpg",
         "class": "정생:괴이",
         "effect": [
             [
@@ -263,7 +250,6 @@
         "name": "환괴 팅벨",
         "category": "시그니",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-014.jpg",
         "class": "정생:괴이",
         "limitation": "미도리코 한정",
         "effect": [
@@ -286,7 +272,6 @@
         "name": "환괴 잇탄모멘",
         "category": "시그니",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-015.jpg",
         "class": "정생:괴이",
         "effect": [
             [
@@ -300,7 +285,6 @@
         "name": "환괴 고블린",
         "category": "시그니",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-016.jpg",
         "class": "정생:괴이"
     },
     {
@@ -308,7 +292,6 @@
         "name": "환괴 큐소",
         "category": "시그니",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-017.jpg",
         "class": "정생:괴이",
         "limitation": "미도리코 한정",
         "effect": [
@@ -333,7 +316,6 @@
         "name": "서번트 Ｄ４",
         "category": "시그니",
         "color": "C",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-018.jpg",
         "class": "정원",
         "effect": [
             [
@@ -356,7 +338,6 @@
         "name": "서번트 Ｏ",
         "category": "시그니",
         "color": "C",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-019.jpg",
         "class": "정원",
         "effect": [
             [
@@ -379,7 +360,6 @@
         "name": "연쇄",
         "category": "스펠",
         "color": "G",
-        "imgurl": "https://www.takaratomy.co.jp/products/wixoss/wxwp/images/card/WDK03/WDK03-020.jpg",
         "limitation": "미도리코 한정",
         "effect": [
             [
